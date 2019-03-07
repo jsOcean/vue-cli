@@ -1,0 +1,16 @@
+*{
+	padding: auto;
+	margin: auto;
+}
+
+ul li {
+	list-style: none;
+}
+
+.fixed {
+	position: fixed;
+}
+
+.tc {
+	text-align: center;
+}
